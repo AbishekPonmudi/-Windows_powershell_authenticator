@@ -157,7 +157,7 @@ try {
 ## Video reference
 
 
-[![Alt text]([https://img.youtube.com/vi/BQOwgepGLwQ/0.jpg](https://th.bing.com/th?id=OVF.m37%2bHVCKfaHQrZlvKaXPkg&w=216&h=120&c=7&o=6&dpr=1.3&pid=13.1))](https://www.youtube.com/watch?v=x5J5b6u99pM)
+[![Alt text](https://img.youtube.com/vi/x5J5b6u99pM/0.jpg)](https://www.youtube.com/watch?v=x5J5b6u99pM)
 
 ## Related
 

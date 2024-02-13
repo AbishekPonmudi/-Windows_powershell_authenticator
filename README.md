@@ -54,7 +54,7 @@ For uninstall this authenticator Simply run this application either powershell o
 This feature may not applicable with windows 10 and below that so then after installation run this command whether using windows 10 or below that
 
 ```bash
-./preview_auth.bat
+./lockuser.bat
 
 ```
 

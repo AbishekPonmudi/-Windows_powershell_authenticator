@@ -163,5 +163,5 @@ try {
 
 Here are some related projects
 
-[Awesome README](https://github.com/matiassingers/awesome-readme)
+[Awesome README](https://www.bing.com/ck/a?!&&p=6b8285be0210fe7dJmltdHM9MTcwNzc4MjQwMCZpZ3VpZD0yZDJiMWM2ZS1kOGI0LTYzMWYtMDVmZi0wZmI1ZDkxOTYyOTYmaW5zaWQ9NTI1NA&ptn=3&ver=2&hsh=3&fclid=2d2b1c6e-d8b4-631f-05ff-0fb5d9196296&psq=powershell+authenticator&u=a1aHR0cHM6Ly9sZWFybi5taWNyb3NvZnQuY29tL2VuLXVzL3Bvd2Vyc2hlbGwvbWljcm9zb2Z0Z3JhcGgvYXV0aGVudGljYXRpb24tY29tbWFuZHM_dmlldz1ncmFwaC1wb3dlcnNoZWxsLTEuMA&ntb=1)
 

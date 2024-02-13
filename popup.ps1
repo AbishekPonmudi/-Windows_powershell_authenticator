@@ -1,8 +1,8 @@
 # Define variables
 $registryKey = "HKCU:\Software\MyApplication"
 $registryValueName = "DisableCMD"
-$username = "3677"
-$password = "3677"
+$username = "admin"
+$password = "admin"
 
 # Function to set registry value
 function Set-RegistryValue {

@@ -2,7 +2,7 @@
 setlocal
 
 :: Define the path to the PowerShell script
-set "ps_script_path=C:\Users\Abishek\Desktop\powershell project\popup.ps1"
+set "ps_script_path=C:\Users\Abishek\Desktop\powershell_project\popup.ps1"
 
 :: Check if the script path is valid
 if not exist "%ps_script_path%" (

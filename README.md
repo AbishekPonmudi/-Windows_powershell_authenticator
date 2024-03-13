@@ -56,7 +56,7 @@ This feature may not applicable with windows 10 and below that so then after ins
 
 username and password are updated while installing ```install.bat```
 ```bash
-intstall.bat
+install.bat
 ```
 
 ```powershell

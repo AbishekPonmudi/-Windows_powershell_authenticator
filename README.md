@@ -41,12 +41,13 @@ For uninstall this authenticator Simply run this application either powershell o
 ./uninstall.bat
 ```
 
-This feature may not applicable with windows 10 and below that so then after installation run this command whether using windows 10 or below that
+If it not works on windows 11 and This feature may not applicable with windows 10 and below that so then after installation run this command whether using windows 10 or below that
 
 ```bash
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Bypass
 
 ```
+And press Y to apply the changes Don't worry about the script it is just a enable command 
 
 
     
